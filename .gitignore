@@ -1,0 +1,31 @@
+# Antigravity agents
+.agents/
+
+# Node.js / Frontend dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Editor / IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local reference sources
+src/
