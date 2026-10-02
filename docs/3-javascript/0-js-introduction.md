@@ -18,13 +18,13 @@ Memahami fondasi eksekusi JavaScript, peran lingkungan _runtime_ (seperti browse
 
 ### Konsep 1: Definisi, Sejarah, dan Evolusi JavaScript
 
-- **Apa (_What_):** **Adalah** bahasa pemrograman berjenis skrip (_script_) yang ditulis dan disediakan sebagai teks polos (_plain text_). Berbeda dari bahasa pemrograman seperti Java, skrip JavaScript tidak memerlukan persiapan khusus atau proses kompilasi awal sebelum dijalankan.
+- **Apa (_What_):** **Merupakan** bahasa pemrograman berjenis skrip (_script_) yang ditulis dan disediakan sebagai teks polos (_plain text_). Berbeda dari bahasa pemrograman seperti Java, skrip JavaScript tidak memerlukan persiapan khusus atau proses kompilasi awal sebelum dijalankan.
 - **Mengapa (_Why_):** **Karena** pada awal perkembangannya, JavaScript diciptakan untuk "menghidupkan halaman web" (_make web pages alive_). Saat pertama kali dikembangkan, bahasa ini dinamai _LiveScript_. Namun, karena bahasa Java sangat populer pada masa itu, nama tersebut diubah menjadi "JavaScript" sebagai strategi posisi agar terlihat seperti "adik laki-laki" dari Java. Seiring evolusinya, JavaScript berkembang menjadi bahasa yang sepenuhnya independen dengan spesifikasi resminya sendiri yang dinamakan _ECMAScript_.
 - **Bagaimana (_How_):** **Dengan cara** menuliskan skrip JavaScript langsung di dalam kode HTML suatu halaman web dan akan dieksekusi secara otomatis begitu halaman web selesai dimuat oleh browser.
 - **Kapan (_When_):** **Ketika** sebuah halaman web membutuhkan tingkat interaktivitas dinamis, seperti merespons masukan pengguna, mengontrol perilaku elemen, atau memproses data di sisi klien secara _real-time_.
 
 > [!NOTE]
-> Saat ini JavaScript tidak memiliki hubungan teknis sama sekali dengan Java meskipun namanya memiliki kemiripan.
+> **Fakta Sejarah**: Sebelum dirilis ke publik dengan nama _LiveScript_, prototipe awal bahasa ini diberi nama sandi internal **Mocha** oleh penciptanya (Brendan Eich). Selain itu, penting diingat bahwa saat ini JavaScript tidak memiliki hubungan teknis sama sekali dengan Java meskipun namanya memiliki kemiripan.
 
 ### Konsep 2: Mesin JavaScript (_JavaScript Engine_) dan Mekanisme Kerja
 
@@ -67,7 +67,7 @@ Memahami fondasi eksekusi JavaScript, peran lingkungan _runtime_ (seperti browse
 </script>
 ```
 
-- **Kapan (_When_):** **Ketika** pengguna melakukan interaksi tertentu pada halaman web, seperti mengklik tombol, menggerakkan petunjuk mouse, menekan tombol pada _keyboard_, atau mengirimkan formulir, JavaScript mengambil alih kontrol secara dinamis.
+- **Kapan (_When_):** **Ketika** pengguna melakukan interaksi tertentu pada halaman web, seperti mengklik tombol, menggerakkan kursor _mouse_, menekan tombol pada _keyboard_, atau mengirimkan formulir, JavaScript mengambil alih kontrol secara dinamis.
 
 ### Konsep 4: Kemampuan dan Batasan Keamanan di Browser
 
@@ -164,7 +164,7 @@ HTML mendefinisikan struktur dan konten utama, CSS memberikan gaya visual serta 
 
 1. Terintegrasi penuh dengan HTML dan CSS.
 2. Hal-hal sederhana dapat diselesaikan dengan cara yang sederhana.
-3. Didukung secara _default_ oleh seluruh browser utama tanpa memerlukan plugin tambahan.
+3. Didukung secara _default_ oleh seluruh browser utama tanpa memerlukan _plugin_ tambahan.
 
 </details>
 
