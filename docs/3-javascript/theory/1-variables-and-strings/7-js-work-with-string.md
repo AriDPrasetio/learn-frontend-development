@@ -249,5 +249,5 @@ Karakter terakhir diakses dengan cara mengurangi panjang total `string` dengan a
 
 ---
 **Navigasi Modul 1: Variables and Strings**
-- ?? Sebelumnya: [Dynamic Typing And Typeof Operator](./6-js-dynamic-typing-and-typeof-operator.md)
+- ⬅️ Sebelumnya: [Dynamic Typing And Typeof Operator](./6-js-dynamic-typing-and-typeof-operator.md)
 - Selanjutnya: [String Character Methods](./8-js-string-character-methods.md) ??

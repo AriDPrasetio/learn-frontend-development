@@ -202,5 +202,5 @@ Petunjuk: Jawablah pertanyaan esai analitis berikut untuk menguji pemahaman mend
 
 ---
 **Navigasi Modul 1: Variables and Strings**
-- ?? Sebelumnya: [Data Types](./2-js-data-types.md)
+- ⬅️ Sebelumnya: [Data Types](./2-js-data-types.md)
 - Selanjutnya: [String Introduction](./4-js-string-introduction.md) ??

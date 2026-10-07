@@ -200,5 +200,5 @@ Jawablah pertanyaan-pertanyaan esai berikut berdasarkan pemahaman konsep dari ma
 
 ---
 **Navigasi Modul 1: Variables and Strings**
-- ?? Sebelumnya: [String Character Methods](./8-js-string-character-methods.md)
+- ⬅️ Sebelumnya: [String Character Methods](./8-js-string-character-methods.md)
 - Selanjutnya: [String Formatting Methods](./10-js-string-formatting-methods.md) ??

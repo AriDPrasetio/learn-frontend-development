@@ -238,4 +238,4 @@ Jawablah pertanyaan-pertanyaan esai berikut untuk melatih analisis dan pemikiran
 
 ---
 **Navigasi Modul 1: Variables and Strings**
-- ?? Sebelumnya: [String Formatting Methods](./10-js-string-formatting-methods.md)
+- ⬅️ Sebelumnya: [String Formatting Methods](./10-js-string-formatting-methods.md)

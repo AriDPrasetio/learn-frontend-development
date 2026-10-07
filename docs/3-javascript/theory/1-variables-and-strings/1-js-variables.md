@@ -297,5 +297,5 @@ Penguasaan `technical vocabulary` yang tepat sangat penting bagi pengembang Java
 
 ---
 **Navigasi Modul 1: Variables and Strings**
-- ?? Sebelumnya: [Rangkuman Variabel Dan String](./0-rangkuman-variabel-dan-string.md)
+- ⬅️ Sebelumnya: [Rangkuman Variabel Dan String](./0-rangkuman-variabel-dan-string.md)
 - Selanjutnya: [Data Types](./2-js-data-types.md) ??

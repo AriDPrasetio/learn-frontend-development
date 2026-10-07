@@ -289,5 +289,5 @@ Gunakan pemahaman Anda dari sumber materi untuk menganalisis dan menjawab pertan
 
 ---
 **Navigasi Modul 1: Variables and Strings**
-- ?? Sebelumnya: [Variables](./1-js-variables.md)
+- ⬅️ Sebelumnya: [Variables](./1-js-variables.md)
 - Selanjutnya: [Let Const Var](./3-js-let-const-var.md) ??

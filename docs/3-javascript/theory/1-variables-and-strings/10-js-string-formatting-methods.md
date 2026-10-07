@@ -231,5 +231,5 @@ Berikut adalah daftar istilah teknis JavaScript yang terdapat dalam materi beser
 
 ---
 **Navigasi Modul 1: Variables and Strings**
-- ?? Sebelumnya: [String Search And Slice Methods](./9-js-string-search-and-slice-methods.md)
+- ⬅️ Sebelumnya: [String Search And Slice Methods](./9-js-string-search-and-slice-methods.md)
 - Selanjutnya: [String Modification Methods](./11-js-string-modification-methods.md) ??

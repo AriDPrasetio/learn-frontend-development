@@ -176,5 +176,5 @@ Salah satu contoh skenario penggunaannya adalah untuk memanipulasi atau membandi
 
 ---
 **Navigasi Modul 1: Variables and Strings**
-- ?? Sebelumnya: [Work With String](./7-js-work-with-string.md)
+- ⬅️ Sebelumnya: [Work With String](./7-js-work-with-string.md)
 - Selanjutnya: [String Search And Slice Methods](./9-js-string-search-and-slice-methods.md) ??

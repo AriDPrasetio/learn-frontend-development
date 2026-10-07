@@ -268,5 +268,5 @@ Jawablah pertanyaan-pertanyaan esai berikut untuk menguji pemahaman kritis Anda 
 
 ---
 **Navigasi Modul 1: Variables and Strings**
-- ?? Sebelumnya: [String Introduction](./4-js-string-introduction.md)
+- ⬅️ Sebelumnya: [String Introduction](./4-js-string-introduction.md)
 - Selanjutnya: [Dynamic Typing And Typeof Operator](./6-js-dynamic-typing-and-typeof-operator.md) ??
