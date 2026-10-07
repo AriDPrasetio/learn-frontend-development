@@ -230,6 +230,4 @@ Berikut adalah daftar istilah teknis JavaScript yang terdapat dalam materi beser
 | **`Whitespace`**             | Karakter tidak kasat mata seperti spasi, tab, atau pemisah baris yang berada di dalam sebuah `string`.          |
 
 ---
-**Navigasi Modul 1: Variables and Strings**
-- ⬅️ Sebelumnya: [String Search And Slice Methods](./9-js-string-search-and-slice-methods.md)
-- Selanjutnya: [String Modification Methods](./11-js-string-modification-methods.md) ??
+[⬅️ Sebelumnya](9-js-string-search-and-slice-methods.md) | [Selanjutnya ➡️](11-js-string-modification-methods.md)

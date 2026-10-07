@@ -237,5 +237,4 @@ Jawablah pertanyaan-pertanyaan esai berikut untuk melatih analisis dan pemikiran
 | **SearchValue**                | Parameter pertama pada `method` `replace()` yang menentukan nilai atau pola teks yang ingin dicari di dalam `string`.                              |
 
 ---
-**Navigasi Modul 1: Variables and Strings**
-- ⬅️ Sebelumnya: [String Formatting Methods](./10-js-string-formatting-methods.md)
+[⬅️ Sebelumnya](10-js-string-formatting-methods.md) | Selanjutnya ➡️

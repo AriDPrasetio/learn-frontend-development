@@ -205,6 +205,4 @@ Kerjakan soal-soal esai berikut untuk melatih analisis dan pemikiran kritis Anda
 | **String**             | `Data type` dalam `programming` yang merepresentasikan teks, sekaligus merupakan format dari semua `return value` operator `typeof`.                                  |
 
 ---
-**Navigasi Modul 1: Variables and Strings**
-- ⬅️ Sebelumnya: [Understanding Code Clarity](./5-js-understanding-code-clarity.md)
-- Selanjutnya: [Work With String](./7-js-work-with-string.md) ??
+[⬅️ Sebelumnya](5-js-understanding-code-clarity.md) | [Selanjutnya ➡️](7-js-work-with-string.md)

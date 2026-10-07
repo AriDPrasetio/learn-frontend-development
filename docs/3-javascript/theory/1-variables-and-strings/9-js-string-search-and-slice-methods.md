@@ -199,6 +199,4 @@ Jawablah pertanyaan-pertanyaan esai berikut berdasarkan pemahaman konsep dari ma
 | **`substring`**                           | Bagian kecil atau potongan karakter yang merupakan bagian dari `string` yang lebih besar.                                                                          |
 
 ---
-**Navigasi Modul 1: Variables and Strings**
-- ⬅️ Sebelumnya: [String Character Methods](./8-js-string-character-methods.md)
-- Selanjutnya: [String Formatting Methods](./10-js-string-formatting-methods.md) ??
+[⬅️ Sebelumnya](8-js-string-character-methods.md) | [Selanjutnya ➡️](10-js-string-formatting-methods.md)

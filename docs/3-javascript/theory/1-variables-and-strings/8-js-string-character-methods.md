@@ -175,6 +175,4 @@ Salah satu contoh skenario penggunaannya adalah untuk memanipulasi atau membandi
 | **Unicode (UTF-16)**                                             | Standar `character encoding` internasional yang digunakan oleh JavaScript secara internal, di mana 128 karakter pertamanya sesuai dengan standar ASCII. |
 
 ---
-**Navigasi Modul 1: Variables and Strings**
-- ⬅️ Sebelumnya: [Work With String](./7-js-work-with-string.md)
-- Selanjutnya: [String Search And Slice Methods](./9-js-string-search-and-slice-methods.md) ??
+[⬅️ Sebelumnya](7-js-work-with-string.md) | [Selanjutnya ➡️](9-js-string-search-and-slice-methods.md)

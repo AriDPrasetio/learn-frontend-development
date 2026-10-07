@@ -288,6 +288,4 @@ Gunakan pemahaman Anda dari sumber materi untuk menganalisis dan menjawab pertan
 | **`variable`**           | Wadah bernama yang digunakan untuk menyimpan `value` data sehingga dapat dirujuk dan dimanipulasi di dalam program.                                                        |
 
 ---
-**Navigasi Modul 1: Variables and Strings**
-- ⬅️ Sebelumnya: [Variables](./1-js-variables.md)
-- Selanjutnya: [Let Const Var](./3-js-let-const-var.md) ??
+[⬅️ Sebelumnya](1-js-variables.md) | [Selanjutnya ➡️](3-js-let-const-var.md)

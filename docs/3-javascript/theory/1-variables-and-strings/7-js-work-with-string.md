@@ -248,6 +248,4 @@ Karakter terakhir diakses dengan cara mengurangi panjang total `string` dengan a
 | **`Template Literals`**    | Bentuk penulisan `string` yang lebih fleksibel menggunakan backtick, yang mendukung penyisipan `variable` dan pemformatan multi-baris secara langsung.                     |
 
 ---
-**Navigasi Modul 1: Variables and Strings**
-- ⬅️ Sebelumnya: [Dynamic Typing And Typeof Operator](./6-js-dynamic-typing-and-typeof-operator.md)
-- Selanjutnya: [String Character Methods](./8-js-string-character-methods.md) ??
+[⬅️ Sebelumnya](6-js-dynamic-typing-and-typeof-operator.md) | [Selanjutnya ➡️](8-js-string-character-methods.md)

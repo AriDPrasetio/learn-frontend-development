@@ -221,6 +221,4 @@ Jawablah pertanyaan analisis berikut untuk menguji pemahaman mendalam Anda:
 | **Primitive Data Type**  | Jenis kelompok `data type` dasar paling sederhana di bahasa JavaScript (`string`, `number`, `boolean`, `null`, `undefined`, `symbol`, `bigint`).  |
 
 ---
-**Navigasi Modul 1: Variables and Strings**
-- ⬅️ Sebelumnya: [Let Const Var](./3-js-let-const-var.md)
-- Selanjutnya: [Understanding Code Clarity](./5-js-understanding-code-clarity.md) ??
+[⬅️ Sebelumnya](3-js-let-const-var.md) | [Selanjutnya ➡️](5-js-understanding-code-clarity.md)
