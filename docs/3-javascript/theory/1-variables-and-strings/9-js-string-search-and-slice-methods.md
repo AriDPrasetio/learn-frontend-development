@@ -198,4 +198,7 @@ Jawablah pertanyaan-pertanyaan esai berikut berdasarkan pemahaman konsep dari ma
 | **`string`**                              | `data type` dalam JavaScript yang digunakan untuk merepresentasikan teks atau urutan karakter.                                                                     |
 | **`substring`**                           | Bagian kecil atau potongan karakter yang merupakan bagian dari `string` yang lebih besar.                                                                          |
 
-CATATAN: "indeks" -> "`index`" (standar penulisan bahasa Inggris), "logika kondisional" -> "`conditional logic`" (standar penulisan), "nilai yang dikembalikan" -> "`return value`" (standar konsep fungsi).
+---
+**Navigasi Modul 1: Variables and Strings**
+- ?? Sebelumnya: [String Character Methods](./8-js-string-character-methods.md)
+- Selanjutnya: [String Formatting Methods](./10-js-string-formatting-methods.md) ??

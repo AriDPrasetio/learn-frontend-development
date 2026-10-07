@@ -111,19 +111,6 @@ Uji pemahaman Anda dengan menjawab pertanyaan-pertanyaan berikut tanpa melihat b
 - **`string interpolation`:** Proses penyisipan `variable` atau `expression` secara langsung ke dalam `string` (biasanya menggunakan sintaks `${}`).
 - **`typeof`:** Operator bawaan untuk mendeteksi `data type` dari sebuah `value`.
 
-CATATAN:
-
-- "deklarasi ulang" -> "`redeclaration`" (istilah baku pemrograman untuk mendeskripsikan ulang `variable` yang sama)
-- "alur eksekusi" -> "`execution flow`" (istilah umum dalam pemrograman)
-- "pengetikan dinamis" -> "`dynamic typing`" (fitur bahasa JS)
-- "penggabungan" -> "`concatenation`" (istilah `string`)
-- "karakter" -> "`character`" (istilah tipe `string`)
-- "indeks" -> "`index`" (posisi `character`/`array`)
-- "pemotongan" -> "`slicing`" (metode ekstraksi bagian dari `array`/`string`)
-- "multabaris" -> "`multiline`" (istilah formatting teks)
-- "baris baru" -> "`newline`" (istilah `string` formatting)
-- "ekstraksi" -> "`extraction`" (pengambilan sebagian data)
-- "pencarian" -> "`search`" (operasi penelusuran `string`/`array`)
-- "mesin JavaScript" -> "`JavaScript engine`" (program pengeksekusi JS)
-
-CATATAN: Proses konversi istilah telah selesai. Tidak ada istilah di luar daftar atau ambigu.
+---
+**Navigasi Modul 1: Variables and Strings**
+- Selanjutnya: [Variables](./1-js-variables.md) ??

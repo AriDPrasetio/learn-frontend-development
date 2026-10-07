@@ -229,4 +229,7 @@ Berikut adalah daftar istilah teknis JavaScript yang terdapat dalam materi beser
 | **`Uppercase`**              | Format penulisan teks yang menggunakan huruf kapital (huruf besar) seluruhnya.                                |
 | **`Whitespace`**             | Karakter tidak kasat mata seperti spasi, tab, atau pemisah baris yang berada di dalam sebuah `string`.          |
 
-CATATAN: Beberapa istilah langsung diganti bahasa Inggrisnya tanpa tanda kurung penjelas untuk menyederhanakan teks, misalnya "awal (leading)" menjadi "`leading`", dan "akhir (trailing)" menjadi "`trailing`".
+---
+**Navigasi Modul 1: Variables and Strings**
+- ?? Sebelumnya: [String Search And Slice Methods](./9-js-string-search-and-slice-methods.md)
+- Selanjutnya: [String Modification Methods](./11-js-string-modification-methods.md) ??

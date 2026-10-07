@@ -199,3 +199,8 @@ Petunjuk: Jawablah pertanyaan esai analitis berikut untuk menguji pemahaman mend
 | **`SyntaxError`**  | Jenis `error` spesifik pada JavaScript yang terjadi akibat pelanggaran aturan tata bahasa atau sintaksis kode.                                                                      |
 | **`Undefined`**    | `Default value` yang dimiliki oleh `variable` `let` yang telah dideklarasikan namun belum diberi isi/nilai.                                                                         |
 | **`var`**          | Kata kunci `declaration` `variable` lama dalam JavaScript yang memiliki `scope` lebih luas dan tidak direkomendasikan lagi dalam standar modern.                                    |
+
+---
+**Navigasi Modul 1: Variables and Strings**
+- ?? Sebelumnya: [Data Types](./2-js-data-types.md)
+- Selanjutnya: [String Introduction](./4-js-string-introduction.md) ??

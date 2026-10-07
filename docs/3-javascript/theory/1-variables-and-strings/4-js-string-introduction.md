@@ -220,9 +220,7 @@ Jawablah pertanyaan analisis berikut untuk menguji pemahaman mendalam Anda:
 | **String**              | `Primitive data type` JavaScript berupa teks polos, ditandai melalui apitan tanda petik ganda (`"`) atau tunggal (`'`).                            |
 | **Primitive Data Type**  | Jenis kelompok `data type` dasar paling sederhana di bahasa JavaScript (`string`, `number`, `boolean`, `null`, `undefined`, `symbol`, `bigint`).  |
 
-CATATAN:
-- "Console Log" pada judul diubah menjadi `console.log` menyesuaikan dengan nama `method`.
-- "error (SyntaxError)" dilebur menjadi `error` `SyntaxError`.
-- "melampirkan (append)" dilebur menjadi `append`.
-- "digunakan kembali (reusable)" dilebur menjadi `reusable`.
-- "ditimpa keseluruhannya (reassignment)" dilebur menjadi `reassignment`.
+---
+**Navigasi Modul 1: Variables and Strings**
+- ?? Sebelumnya: [Let Const Var](./3-js-let-const-var.md)
+- Selanjutnya: [Understanding Code Clarity](./5-js-understanding-code-clarity.md) ??

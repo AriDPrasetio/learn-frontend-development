@@ -247,17 +247,7 @@ Karakter terakhir diakses dengan cara mengurangi panjang total `string` dengan a
 | **`Substring`**            | Urutan karakter yang merupakan bagian dari `string` yang lebih besar.                                                                                                      |
 | **`Template Literals`**    | Bentuk penulisan `string` yang lebih fleksibel menggunakan backtick, yang mendukung penyisipan `variable` dan pemformatan multi-baris secara langsung.                     |
 
-CATATAN:
-"mengembalikan" -> "me-`return`" (atau `return` `value` jika bertindak sebagai kata benda)
-"metode" -> "`method`"
-"argumen" -> "`argument`"
-"nilai" -> "`value`"
-"indeks" -> "`index`"
-"fungsi" -> "`function`"
-"eksekusi skrip" -> "`script execution`"
-"kesalahan sintaks" -> "`syntax error`"
-"penutup `string`" -> "`string terminator`"
-
-
-CATATAN:
-Istilah teknis bahasa Indonesia telah dihapus dan diganti dengan versi bahasa Inggrisnya dalam backtick.
+---
+**Navigasi Modul 1: Variables and Strings**
+- ?? Sebelumnya: [Dynamic Typing And Typeof Operator](./6-js-dynamic-typing-and-typeof-operator.md)
+- Selanjutnya: [String Character Methods](./8-js-string-character-methods.md) ??

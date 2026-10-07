@@ -173,3 +173,8 @@ Salah satu contoh skenario penggunaannya adalah untuk memanipulasi atau membandi
 | **`fromCharCode()`**                                             | `Static method` dari `global object` `String` di JavaScript yang meng-`convert` kode numerik UTF-16/ASCII menjadi karakter teks.                              |
 | **Index (Indeks)**                                               | Posisi angka berurutan yang menunjukkan letak suatu karakter dalam `string` (dimulai dari `index` 0).                                                  |
 | **Unicode (UTF-16)**                                             | Standar `character encoding` internasional yang digunakan oleh JavaScript secara internal, di mana 128 karakter pertamanya sesuai dengan standar ASCII. |
+
+---
+**Navigasi Modul 1: Variables and Strings**
+- ?? Sebelumnya: [Work With String](./7-js-work-with-string.md)
+- Selanjutnya: [String Search And Slice Methods](./9-js-string-search-and-slice-methods.md) ??

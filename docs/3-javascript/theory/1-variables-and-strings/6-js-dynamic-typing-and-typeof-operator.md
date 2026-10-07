@@ -203,3 +203,8 @@ Kerjakan soal-soal esai berikut untuk melatih analisis dan pemikiran kritis Anda
 | **Runtime Error**      | `Error` yang baru terjadi (atau terdeteksi) pada saat program sedang dieksekusi.                                                                                  |
 | **Static Typing**      | Fitur `programming language` (seperti C# atau C++) yang mengharuskan `declaration` `data type` secara spesifik di awal dan melarang perubahan `type` secara menyimpang. |
 | **String**             | `Data type` dalam `programming` yang merepresentasikan teks, sekaligus merupakan format dari semua `return value` operator `typeof`.                                  |
+
+---
+**Navigasi Modul 1: Variables and Strings**
+- ?? Sebelumnya: [Understanding Code Clarity](./5-js-understanding-code-clarity.md)
+- Selanjutnya: [Work With String](./7-js-work-with-string.md) ??

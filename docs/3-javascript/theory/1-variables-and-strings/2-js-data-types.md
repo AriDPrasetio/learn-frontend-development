@@ -287,28 +287,7 @@ Gunakan pemahaman Anda dari sumber materi untuk menganalisis dan menjawab pertan
 | **Undefined**            | Primitive data type khusus yang hanya berisi satu value `undefined`, mewakili kondisi di mana suatu `variable` telah dideklarasikan tetapi belum diberi `value`.           |
 | **`variable`**           | Wadah bernama yang digunakan untuk menyimpan `value` data sehingga dapat dirujuk dan dimanipulasi di dalam program.                                                        |
 
-CATATAN:
-
-- "tipe data" -> "`data type`" (kategori data dalam JS)
-- "pengetikan dinamis" -> "dynamic typing" (fitur bahasa JS)
-- "variabel" -> "`variable`" (wadah penyimpanan)
-- "nilai" -> "`value`" (isi data)
-- "primitif" -> "`primitive`" (tipe data tunggal)
-- "non-primitif" -> "non-`primitive`" (tipe data kompleks)
-- "objek" -> "`object`" (struktur data JS)
-- "skrip" -> "`script`" (kode program)
-- "eksekusi" -> "`execution`" (proses menjalankan program)
-- "penetapan ulang" -> "`reassignment`" (mengganti nilai variabel)
-- "memori" -> "`memory`" (ruang penyimpanan)
-- "konteks eksekusi" -> "`execution context`" (lingkungan jalannya kode)
-- "numerik" -> "`numeric`" (berkaitan dengan angka)
-- "ekspresi" -> "`expression`" (potongan kode yang menghasilkan nilai)
-- "fungsi" -> "`function`" (blok kode yang dapat dieksekusi)
-- "bawaan" -> "`built-in`" (fitur asli bahasa)
-- "konsol" -> "`console`" (antarmuka command-line)
-- "karakter" -> "`character`" (elemen tunggal `string`)
-- "mengembalikan" -> "`me-return`" (memberikan hasil dari fungsi/operator)
-- "dideklarasikan" -> "dideklarasikan" (akar kata: declaration)
-- "pasangan kunci-nilai" -> "`key-value pairs`" (struktur data objek)
-- "pengenal unik" -> "`unique identifier`" (konsep properti eksklusif)
-- "mesin" -> "`engine`" (program pengeksekusi)
+---
+**Navigasi Modul 1: Variables and Strings**
+- ?? Sebelumnya: [Variables](./1-js-variables.md)
+- Selanjutnya: [Let Const Var](./3-js-let-const-var.md) ??

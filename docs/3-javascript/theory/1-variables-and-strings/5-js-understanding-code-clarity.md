@@ -265,3 +265,8 @@ Jawablah pertanyaan-pertanyaan esai berikut untuk menguji pemahaman kritis Anda 
 | **`single-line comment`**                 | Penjelasan singkat dalam satu baris yang diawali dengan `//`.                                                                        |
 | **`statement`**              | Satuan instruksi terkecil dalam program yang memerintahkan komputer untuk melakukan suatu tindakan tertentu.                                                 |
 | **`TypeError`**                           | Jenis `error` pada JavaScript saat suatu operasi dilakukan pada `data type` yang tidak valid (contoh: mencoba menjalankan `string` layaknya `function`). |
+
+---
+**Navigasi Modul 1: Variables and Strings**
+- ?? Sebelumnya: [String Introduction](./4-js-string-introduction.md)
+- Selanjutnya: [Dynamic Typing And Typeof Operator](./6-js-dynamic-typing-and-typeof-operator.md) ??

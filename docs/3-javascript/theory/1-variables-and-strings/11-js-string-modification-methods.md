@@ -236,4 +236,6 @@ Jawablah pertanyaan-pertanyaan esai berikut untuk melatih analisis dan pemikiran
 | **Replace()**                  | `Method` bawaan `string` di JavaScript untuk mencari nilai tertentu dan menggantinya dengan nilai baru.                                            |
 | **SearchValue**                | Parameter pertama pada `method` `replace()` yang menentukan nilai atau pola teks yang ingin dicari di dalam `string`.                              |
 
-CATATAN: Ada beberapa penyesuaian istilah tambahan di luar daftar yang diberikan (misalnya `concise`, `readable`, `integer`, `error`, `memory`, `user input`) yang disesuaikan berdasarkan konteks pemrograman secara umum.
+---
+**Navigasi Modul 1: Variables and Strings**
+- ?? Sebelumnya: [String Formatting Methods](./10-js-string-formatting-methods.md)

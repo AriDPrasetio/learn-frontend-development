@@ -295,25 +295,7 @@ Penguasaan `technical vocabulary` yang tepat sangat penting bagi pengembang Java
 
 > Laporan dan catatan belajar komprehensif ini disusun sebagai panduan belajar mandiri yang utuh untuk memantapkan pemahaman dasar `variable` dalam JavaScript.
 
-CATATAN:
-
-- "variabel" -> "`variable`" (istilah wadah penyimpanan data)
-- "nilai" -> "`value`" (isi dari variabel)
-- "deklarasi" -> "`declaration`" (proses pembuatan variabel)
-- "inisialisasi" -> "`initialization`" (pemberian nilai awal)
-- "penugasan ulang" -> "`reassignment`" (pengubahan nilai variabel)
-- "memori" -> "`memory`" (ruang penyimpanan komputer)
-- "skrip" -> "`script`" (kode program yang dieksekusi)
-- "kata kunci" -> "`keyword`" (kata bawaan bahasa pemrograman)
-- "`operator` penugasan" -> "`assignment operator`" (`operator` untuk assign nilai)
-- "konvensi penamaan" -> "`naming convention`" (aturan penamaan `identifier`)
-- "mesin" -> "`engine`" (program pengeksusi kode seperti V8)
-- "mode ketat" -> "`strict mode`" (fitur "use strict" di JS)
-- "pemeriksaan kesamaan" -> "`equality check`" (pengecekan dua nilai)
-- "konstanta" -> "`constant`" (variabel yang nilainya tidak berubah)
-- "fungsi" -> "`function`" (blok kode yang bisa dipanggil)
-- "konsol" -> "`console`" (antarmuka command-line)
-- "mengembalikan" -> "me-`return`" (mengembalikan nilai fungsi/ekspresi)
-- "mendeklarasikan ulang" -> "`redeclare`" (mendeklarasikan variabel yang sama dua kali)
-- "cakupan" -> "`scope`" (ruang lingkup aksesibilitas variabel)
-- "kesalahan sintaksis" -> "`syntax error`" (galat aturan penulisan kode)
+---
+**Navigasi Modul 1: Variables and Strings**
+- ?? Sebelumnya: [Rangkuman Variabel Dan String](./0-rangkuman-variabel-dan-string.md)
+- Selanjutnya: [Data Types](./2-js-data-types.md) ??
