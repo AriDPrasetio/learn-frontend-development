@@ -1,4 +1,4 @@
-﻿# Apa Itu `arrow function`, dan Bagaimana Cara Kerjanya?
+# Apa Itu `arrow function`, dan Bagaimana Cara Kerjanya?
 
 Pada pelajaran sebelumnya, kamu telah belajar cara bekerja dengan `function`, yang merupakan potongan `code` `reusable` yang membantu membuat `code`-mu menjadi lebih modular, lebih mudah dikelola, dan lebih efisien. Semua contoh sebelumnya menggunakan sintaks `regular function`, seperti ini:
 
@@ -112,3 +112,5 @@ console.log(multiply(5, 2));
 - `undefined`, 10
 - This will throw an `error`.
 
+---
+[⬅️ Sebelumnya](1-purpose-of-functions.md) | [Selanjutnya ➡️](3-scope.md)

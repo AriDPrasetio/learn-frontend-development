@@ -1,4 +1,4 @@
-﻿# Apa Itu `scope` dalam Pemrograman, dan Bagaimana `global scope`, `local scope`, dan `block scope` Bekerja?
+# Apa Itu `scope` dalam Pemrograman, dan Bagaimana `global scope`, `local scope`, dan `block scope` Bekerja?
 
 `scope` dalam pemrograman merujuk pada visibilitas dan aksesibilitas `variable` di berbagai bagian `code`-mu. Ia menentukan di mana `variable` bisa diakses atau dimodifikasi. Dalam JavaScript, memahami `scope` sangatlah krusial untuk menulis `code` yang bersih, efisien, dan bebas dari `bug`. Ada tiga jenis utama `scope`: `global scope`, `local scope`, dan `block scope`.
 
@@ -89,3 +89,5 @@ Manakah dari berikut ini yang dengan benar mendeskripsikan `scope` dari `variabl
 - `global scope`.
 - `local scope`.
 
+---
+[⬅️ Sebelumnya](2-arrow-functions.md) | [Selanjutnya ➡️]

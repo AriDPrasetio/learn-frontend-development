@@ -29,6 +29,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Is Dynamic Typing in JavaScript, and How Does It Differ from Statically Typed Languages?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-data-types/what-is-dynamic-typing-in-javascript-and-how-does-it-differ-from-statically-typed-languages)
 - [How Does the typeof Operator Work, and What Is the typeof null Bug in JavaScript?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-data-types/how-does-the-typeof-operator-work-and-what-is-the-typeof-null-bug-in-javascript)
 
+### Review: JavaScript Variables and Data Types
+
+- [JavaScript Variables and Data Types Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-variables-and-data-types/review-javascript-variables-and-data-types)
+
 ### Working with Strings in JavaScript
 
 - [What Is Bracket Notation, and How Do You Access Characters from a String?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-strings-in-javascript/what-is-bracket-notation-and-how-do-you-access-characters-from-a-string)
@@ -55,6 +59,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 
 - [How Can You Replace Parts of a String with Another?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-string-modification-methods/how-can-you-replace-parts-of-a-string-with-another)
 - [How Can You Repeat a String x Number of Times?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-string-modification-methods/how-can-you-repeat-a-string-x-number-of-times)
+
+### Review: JavaScript Strings
+
+- [JavaScript Strings Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-strings/review-javascript-strings)
 
 ## 2. Booleans and Numbers
 
@@ -92,10 +100,18 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [How Do the parseFloat() and parseInt() Methods Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-numbers-and-common-number-methods/how-do-the-parsefloat-and-parseint-methods-work)
 - [What Is the toFixed() Method, and How Does It Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-numbers-and-common-number-methods/what-is-the-tofixed-method-and-how-does-it-work)
 
+### Review: JavaScript Math
+
+- [JavaScript Math Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-math/review-javascript-math)
+
 ### Understanding Comparisons and Conditionals
 
 - [How Do Comparisons Work with Null and Undefined Data Types?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-comparisons-and-conditionals/how-do-comparisons-work-with-null-and-undefined-data-types)
 - [What Are Switch Statements and How Do They Differ from If/Else Chains?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-comparisons-and-conditionals/what-are-switch-statements-and-how-do-they-differ-from-if-else-chains)
+
+### Review: JavaScript Comparisons and Conditionals
+
+- [JavaScript Comparisons and Conditionals Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-comparisons-and-conditionals/review-javascript-comparisons-and-conditionals)
 
 ## 3. Functions
 
@@ -104,6 +120,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Is the Purpose of Functions, and How Do They Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-functions/what-is-the-purpose-of-functions-and-how-do-they-work)
 - [What Are Arrow Functions, and How Do They Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-functions/what-are-arrow-functions-and-how-do-they-work)
 - [What Is Scope in Programming, and How Does Global, Local, and Block Scope Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-functions/what-is-scope-in-programming-and-how-does-global-local-and-block-scope-work)
+
+### Review: JavaScript Functions
+
+- [JavaScript Functions Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-functions/review-javascript-functions)
 
 ## 4. Arrays
 
@@ -122,6 +142,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [How Do You Add and Remove Elements from the Middle of an Array?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-common-array-methods/how-do-you-add-remove-elements-from-the-middle-of-an-array)
 - [How Can You Check if an Array Contains a Certain Value?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-common-array-methods/how-can-you-check-if-an-array-contains-a-certain-value)
 - [What Is a Shallow Copy of an Array, and What Are Some Ways to Create These Copies?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-common-array-methods/what-is-a-shallow-copy-of-an-array-and-what-are-some-ways-to-create-these-copies)
+
+### Review: JavaScript Arrays
+
+- [JavaScript Arrays Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-arrays/review-javascript-arrays)
 
 ## 5. Objects
 
@@ -145,6 +169,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Is the Optional Chaining Operator, and How Does It Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-optional-chaining-and-object-destructuring/what-is-the-optional-chaining-operator-and-how-does-it-work)
 - [What Is Object Destructuring, and How Does It Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-optional-chaining-and-object-destructuring/what-is-object-destructuring-and-how-does-it-work)
 
+### Review: JavaScript Objects
+
+- [JavaScript Objects Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-objects/review-javascript-objects)
+
 ## 6. Loops
 
 ### Working with Loops
@@ -154,6 +182,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Is the For...in Loop, and When Should You Use It?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-loops/what-is-the-for-in-loop-and-when-should-you-use-it)
 - [What Is a While Loop, and How Does It Differ from the Do...while Loop?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-loops/what-is-a-while-loop-and-how-does-it-differ-from-the-do-while-loop)
 - [What Are the Break and Continue Statements Used for in Loops?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-loops/what-are-the-break-and-continue-statements-used-for-in-loops)
+
+### Review: JavaScript Loops
+
+- [JavaScript Loops Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-loops/review-javascript-loops)
 
 ## 7. Review JavaScript Fundamentals
 
@@ -188,6 +220,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What is the arguments Object?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-the-arguments-object-and-rest-parameters/what-is-the-arguments-object)
 - [What are Rest Parameters and How Do They Differ from the arguments Object?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-the-arguments-object-and-rest-parameters/what-are-rest-parameters-and-how-do-they-differ-from-the-arguments-object)
 
+### Review: JavaScript Fundamentals
+
+- [JavaScript Fundamentals Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-fundamentals/review-javascript-fundamentals)
+
 ## 8. Higher Order Functions and Callbacks
 
 ### Working with Higher Order Functions and Callbacks
@@ -200,6 +236,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Is Method Chaining, and How Does It Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-higher-order-functions-and-callbacks/what-is-method-chaining-and-how-does-it-work)
 - [How Does the Sort Method Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-higher-order-functions-and-callbacks/how-does-the-sort-method-work)
 - [How Do the every() and some() Methods Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-higher-order-functions-and-callbacks/how-do-the-every-and-some-methods-work)
+
+### Review: JavaScript Higher Order Functions
+
+- [JavaScript Higher Order Functions Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-higher-order-functions/review-javascript-higher-order-functions)
 
 ## 9. DOM Manipulation and Events
 
@@ -231,6 +271,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Is the Change Event, and How Does It Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-the-event-object-and-event-delegation/what-is-the-change-event-and-how-does-it-work)
 - [How Do Event Bubbling, and Event Delegation Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-the-event-object-and-event-delegation/how-do-event-bubbling-and-event-delegation-work)
 
+### Review: DOM Manipulation and Click Events with JavaScript
+
+- [DOM Manipulation and Click Events with JavaScript Review](https://www.freecodecamp.org/learn/javascript-v9/review-dom-manipulation-and-click-events-with-javascript/review-dom-manipulation-and-click-events-with-javascript)
+
 ## 10. JavaScript A11y
 
 ### Understanding ARIA Expanded ARIA Live and Common ARIA States
@@ -241,6 +285,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Are Some Common ARIA States Used on Custom Control Elements?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-aria-expanded-aria-live-and-common-aria-states/what-are-some-common-aria-states-used-on-custom-control-elements)
 - [What Is the aria-controls Attribute, and How Does It Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-aria-expanded-aria-live-and-common-aria-states/what-is-the-aria-controls-attribute)
 
+### Review: JavaScript and Accessibility
+
+- [JavaScript and Accessibility Review](https://www.freecodecamp.org/learn/javascript-v9/review-js-a11y/review-js-a11y)
+
 ## 11. Debugging JavaScript
 
 ### Debugging Techniques
@@ -250,6 +298,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [How Does try...catch...finally Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-debugging-techniques/how-does-try-catch-finally-work)
 - [How Does the Debugger Statement Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-debugging-techniques/how-does-the-debugger-statement-work)
 - [What Are Some Examples of Using Advanced JavaScript Debugging Techniques?](https://www.freecodecamp.org/learn/javascript-v9/lecture-debugging-techniques/what-are-some-examples-of-using-advanced-javascript-debugging-techniques)
+
+### Review: Debugging JavaScript
+
+- [Debugging JavaScript Review](https://www.freecodecamp.org/learn/javascript-v9/review-debugging-javascript/review-debugging-javascript)
 
 ## 12. Basic Regex
 
@@ -263,6 +315,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Are Regex Quantifiers, and How Do They Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-regular-expressions/what-are-regex-quantifiers-and-how-do-they-work)
 - [What Are Capturing Groups and Backreferences, and How Do They Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-regular-expressions/what-are-capturing-groups-and-backreferences-and-how-do-they-work)
 
+### Review: JavaScript Regular Expressions
+
+- [JavaScript Regular Expressions Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-regular-expressions/review-javascript-regular-expressions)
+
 ## 13. Form Validation
 
 ### Understanding Form Validation
@@ -271,12 +327,20 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Is the Purpose of the preventDefault() Method?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-form-validation/what-is-the-purpose-of-e-preventdefault)
 - [How Does the Submit Event Work with Forms?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-form-validation/how-does-the-submit-event-work-with-forms)
 
+### Review: Form Validation with JavaScript
+
+- [Form Validation with JavaScript Review](https://www.freecodecamp.org/learn/javascript-v9/review-form-validation-with-javascript/review-form-validation-with-javascript)
+
 ## 14. Dates
 
 ### Working with Dates
 
 - [How Does the JavaScript Date Object Work, and What Are Some Common Methods?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-dates/how-does-the-javascript-data-object-work-and-what-are-some-common-methods)
 - [What Are the Different Ways to Format Dates?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-dates/what-are-the-different-ways-to-format-dates)
+
+### Review: JavaScript Dates
+
+- [JavaScript Dates Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-dates/review-javascript-dates)
 
 ## 15. Audio and Video Events
 
@@ -289,12 +353,20 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [How Can You Work with the Media Streams to Capture Video and Audio from a Local Device?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-audio-and-video/how-can-you-work-with-the-media-streams-getusermedia-to-capture-video-and-audio-from-a-local-device)
 - [What Are Some Other Examples of Video and Audio APIs?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-audio-and-video/what-are-some-other-examples-of-video-and-audio-apis)
 
+### Review: JavaScript Audio and Video
+
+- [JavaScript Audio and Video Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-audio-and-video/review-javascript-audio-and-video)
+
 ## 16. Maps and Sets
 
 ### Working with Maps and Sets
 
 - [What Are Sets in JavaScript, and How Does It Differ from WeakSets?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-maps-and-sets/what-are-sets-in-javascript-and-how-does-it-differ-from-weaksets)
 - [What Is the Map Object, and How Does It Differ from WeakMaps?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-maps-and-sets/what-is-the-map-object-and-how-does-it-differ-from-weakmaps)
+
+### Review: JavaScript Maps and Sets
+
+- [JavaScript Maps and Sets Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-maps-and-sets/review-javascript-maps-and-sets)
 
 ## 17. Localstorage and CRUD Operations
 
@@ -310,6 +382,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Is IndexedDB, and How Does It Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-client-side-storage-and-crud-operations/what-is-indexeddb-and-how-does-it-work)
 - [What Are Cache and Service Workers, and How Do They Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-client-side-storage-and-crud-operations/what-are-cache-service-workers-and-how-do-they-work)
 
+### Review: Local Storage and CRUD
+
+- [Local Storage and CRUD Review](https://www.freecodecamp.org/learn/javascript-v9/review-local-storage-and-crud/review-local-storage-and-crud)
+
 ## 18. Classes and the This Keyword
 
 ### Understanding How to Work with Classes in JavaScript
@@ -319,11 +395,19 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Is Class Inheritance, and How Does It Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-how-to-work-with-classes-in-javascript/what-is-class-inheritance-and-how-does-it-work)
 - [What Are Static Properties and Methods in Classes?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-how-to-work-with-classes-in-javascript/what-are-static-properties-and-methods-in-classes)
 
+### Review: JavaScript Classes
+
+- [JavaScript Classes Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-classes/review-javascript-classes)
+
 ## 19. Recursion
 
 ### Understanding Recursion and the Call Stack
 
 - [What Is Recursion, and How Does It Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-recursion-and-the-call-stack/what-is-recursion-and-how-does-it-work)
+
+### Review: Recursion
+
+- [Recursion Review](https://www.freecodecamp.org/learn/javascript-v9/review-recursion/review-recursion)
 
 ## 20. Data Structures
 
@@ -335,12 +419,20 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [How Do Stacks and Queues Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-common-data-structures-js/how-do-stacks-and-queues-work)
 - [How Do Singly Linked Lists Work and How Do They Differ From Doubly Linked Lists?](https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-common-data-structures-js/how-do-singly-linked-lists-work-and-how-do-they-differ-from-doubly-linked-list)
 
+### Review: Data Structures
+
+- [Data Structures Review](https://www.freecodecamp.org/learn/javascript-v9/review-data-structures-js/review-data-structures-js)
+
 ## 21. Algorithms
 
 ### Introduction to Common Searching and Sorting Algorithms
 
 - [What Is Binary Search and How Does It Differ From Linear Search?](https://www.freecodecamp.org/learn/javascript-v9/lecture-introduction-to-common-searching-and-sorting-algorithms/what-is-binary-search-and-how-does-it-differ-from-linear-search)
 - [What Is Divide and Conquer, and How Does Merge Sort Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-introduction-to-common-searching-and-sorting-algorithms/what-is-divide-and-conquer-and-how-does-merge-sort-work)
+
+### Review: Searching and Sorting Algorithms
+
+- [Searching and Sorting Algorithms Review](https://www.freecodecamp.org/learn/javascript-v9/review-searching-and-sorting-algorithms-js/review-searching-and-sorting-algorithms-js)
 
 ## 22. Graphs and Trees
 
@@ -352,11 +444,19 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Are Trees and Tries and How Do They Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-graphs-and-trees-js/what-are-trees-and-tries-and-how-do-they-work)
 - [How Do Priority Queues and Heaps Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-graphs-and-trees-js/how-do-priority-queues-and-heaps-work)
 
+### Review: Graphs and Trees
+
+- [Graphs and Trees Review](https://www.freecodecamp.org/learn/javascript-v9/review-graphs-and-trees-js/review-graphs-and-trees-js)
+
 ## 23. Dynamic Programming
 
 ### Understanding Dynamic Programming JavaScript
 
 - [What is Dynamic Programming and What Are Some Common Algorithms?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-dynamic-programming-js/what-is-dynamic-programming-and-what-are-some-common-algorithms)
+
+### Review: Dynamic Programming
+
+- [Dynamic Programming Review](https://www.freecodecamp.org/learn/javascript-v9/review-dynamic-programming-js/review-dynamic-programming-js)
 
 ## 24. Functional Programming
 
@@ -364,6 +464,10 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 
 - [What Is Functional Programming?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-functional-programming/what-is-functional-programming)
 - [What Is Currying, and How Does It Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-functional-programming/what-is-currying-and-how-does-it-work)
+
+### Review: JavaScript Functional Programming
+
+- [JavaScript Functional Programming Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-functional-programming/review-javascript-functional-programming)
 
 ## 25. Asynchronous JavaScript
 
@@ -377,3 +481,13 @@ Berikut adalah daftar lengkap seluruh topik teori dari kurikulum JavaScript v9 d
 - [What Is Async/Await, and How Does It Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-asynchronous-programming/what-is-async-await-and-how-does-it-work)
 - [How Does the JavaScript Engine Work, and What Is a JavaScript Runtime?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-asynchronous-programming/how-does-the-javascript-engine-work-and-what-is-a-javascript-runtime)
 - [What Is the Geolocation API, and How Does the getCurrentPosition Work?](https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-asynchronous-programming/what-is-the-geolocation-api-and-how-does-the-getcurrentposition-work)
+
+### Review: Asynchronous JavaScript
+
+- [Asynchronous JavaScript Review](https://www.freecodecamp.org/learn/javascript-v9/review-asynchronous-javascript/review-asynchronous-javascript)
+
+## 26. JavaScript Review
+
+### Review: JavaScript
+
+- [JavaScript Review](https://www.freecodecamp.org/learn/javascript-v9/review-javascript/review-javascript)

@@ -32,6 +32,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-data-types
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-data-types/how-does-the-typeof-operator-work-and-what-is-the-typeof-null-bug-in-javascript
 
+### Review: JavaScript Variables and Data Types
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-variables-and-data-types/review-javascript-variables-and-data-types
+
 ### Working with Strings in JavaScript
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-strings-in-javascript/what-is-bracket-notation-and-how-do-you-access-characters-from-a-string
@@ -65,6 +69,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-string-for
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-string-modification-methods/how-can-you-replace-parts-of-a-string-with-another
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-string-modification-methods/how-can-you-repeat-a-string-x-number-of-times
+
+### Review: JavaScript Strings
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-strings/review-javascript-strings
 
 ## 2. Booleans and Numbers
 
@@ -112,11 +120,19 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-numbers-an
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-numbers-and-common-number-methods/what-is-the-tofixed-method-and-how-does-it-work
 
+### Review: JavaScript Math
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-math/review-javascript-math
+
 ### Understanding Comparisons and Conditionals
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-comparisons-and-conditionals/how-do-comparisons-work-with-null-and-undefined-data-types
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-comparisons-and-conditionals/what-are-switch-statements-and-how-do-they-differ-from-if-else-chains
+
+### Review: JavaScript Comparisons and Conditionals
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-comparisons-and-conditionals/review-javascript-comparisons-and-conditionals
 
 ## 3. Functions
 
@@ -127,6 +143,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-functions/
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-functions/what-are-arrow-functions-and-how-do-they-work
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-functions/what-is-scope-in-programming-and-how-does-global-local-and-block-scope-work
+
+### Review: JavaScript Functions
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-functions/review-javascript-functions
 
 ## 4. Arrays
 
@@ -153,6 +173,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-common-arr
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-common-array-methods/how-can-you-check-if-an-array-contains-a-certain-value
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-common-array-methods/what-is-a-shallow-copy-of-an-array-and-what-are-some-ways-to-create-these-copies
+
+### Review: JavaScript Arrays
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-arrays/review-javascript-arrays
 
 ## 5. Objects
 
@@ -184,6 +208,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-optional-c
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-optional-chaining-and-object-destructuring/what-is-object-destructuring-and-how-does-it-work
 
+### Review: JavaScript Objects
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-objects/review-javascript-objects
+
 ## 6. Loops
 
 ### Working with Loops
@@ -197,6 +225,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-loops/what
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-loops/what-is-a-while-loop-and-how-does-it-differ-from-the-do-while-loop
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-loops/what-are-the-break-and-continue-statements-used-for-in-loops
+
+### Review: JavaScript Loops
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-loops/review-javascript-loops
 
 ## 7. Review JavaScript Fundamentals
 
@@ -238,6 +270,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-the-argume
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-the-arguments-object-and-rest-parameters/what-are-rest-parameters-and-how-do-they-differ-from-the-arguments-object
 
+### Review: JavaScript Fundamentals
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-fundamentals/review-javascript-fundamentals
+
 ## 8. Higher Order Functions and Callbacks
 
 ### Working with Higher Order Functions and Callbacks
@@ -257,6 +293,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-higher-ord
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-higher-order-functions-and-callbacks/how-does-the-sort-method-work
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-higher-order-functions-and-callbacks/how-do-the-every-and-some-methods-work
+
+### Review: JavaScript Higher Order Functions
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-higher-order-functions/review-javascript-higher-order-functions
 
 ## 9. DOM Manipulation and Events
 
@@ -308,6 +348,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-the-event
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-the-event-object-and-event-delegation/how-do-event-bubbling-and-event-delegation-work
 
+### Review: DOM Manipulation and Click Events with JavaScript
+
+https://www.freecodecamp.org/learn/javascript-v9/review-dom-manipulation-and-click-events-with-javascript/review-dom-manipulation-and-click-events-with-javascript
+
 ## 10. JavaScript A11y
 
 ### Understanding ARIA Expanded ARIA Live and Common ARIA States
@@ -322,6 +366,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-aria-expa
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-aria-expanded-aria-live-and-common-aria-states/what-is-the-aria-controls-attribute
 
+### Review: JavaScript and Accessibility
+
+https://www.freecodecamp.org/learn/javascript-v9/review-js-a11y/review-js-a11y
+
 ## 11. Debugging JavaScript
 
 ### Debugging Techniques
@@ -335,6 +383,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-debugging-techniques/ho
 https://www.freecodecamp.org/learn/javascript-v9/lecture-debugging-techniques/how-does-the-debugger-statement-work
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-debugging-techniques/what-are-some-examples-of-using-advanced-javascript-debugging-techniques
+
+### Review: Debugging JavaScript
+
+https://www.freecodecamp.org/learn/javascript-v9/review-debugging-javascript/review-debugging-javascript
 
 ## 12. Basic Regex
 
@@ -354,6 +406,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-regular-ex
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-regular-expressions/what-are-capturing-groups-and-backreferences-and-how-do-they-work
 
+### Review: JavaScript Regular Expressions
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-regular-expressions/review-javascript-regular-expressions
+
 ## 13. Form Validation
 
 ### Understanding Form Validation
@@ -364,6 +420,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-form-vali
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-form-validation/how-does-the-submit-event-work-with-forms
 
+### Review: Form Validation with JavaScript
+
+https://www.freecodecamp.org/learn/javascript-v9/review-form-validation-with-javascript/review-form-validation-with-javascript
+
 ## 14. Dates
 
 ### Working with Dates
@@ -371,6 +431,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-form-vali
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-dates/how-does-the-javascript-data-object-work-and-what-are-some-common-methods
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-dates/what-are-the-different-ways-to-format-dates
+
+### Review: JavaScript Dates
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-dates/review-javascript-dates
 
 ## 15. Audio and Video Events
 
@@ -388,6 +452,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-audio-and-
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-audio-and-video/what-are-some-other-examples-of-video-and-audio-apis
 
+### Review: JavaScript Audio and Video
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-audio-and-video/review-javascript-audio-and-video
+
 ## 16. Maps and Sets
 
 ### Working with Maps and Sets
@@ -395,6 +463,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-audio-and-
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-maps-and-sets/what-are-sets-in-javascript-and-how-does-it-differ-from-weaksets
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-maps-and-sets/what-is-the-map-object-and-how-does-it-differ-from-weakmaps
+
+### Review: JavaScript Maps and Sets
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-maps-and-sets/review-javascript-maps-and-sets
 
 ## 17. Localstorage and CRUD Operations
 
@@ -418,6 +490,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-client-sid
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-client-side-storage-and-crud-operations/what-are-cache-service-workers-and-how-do-they-work
 
+### Review: Local Storage and CRUD
+
+https://www.freecodecamp.org/learn/javascript-v9/review-local-storage-and-crud/review-local-storage-and-crud
+
 ## 18. Classes and the This Keyword
 
 ### Understanding How to Work with Classes in JavaScript
@@ -430,11 +506,19 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-how-to-wo
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-how-to-work-with-classes-in-javascript/what-are-static-properties-and-methods-in-classes
 
+### Review: JavaScript Classes
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-classes/review-javascript-classes
+
 ## 19. Recursion
 
 ### Understanding Recursion and the Call Stack
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-recursion-and-the-call-stack/what-is-recursion-and-how-does-it-work
+
+### Review: Recursion
+
+https://www.freecodecamp.org/learn/javascript-v9/review-recursion/review-recursion
 
 ## 20. Data Structures
 
@@ -450,6 +534,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-common-dat
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-common-data-structures-js/how-do-singly-linked-lists-work-and-how-do-they-differ-from-doubly-linked-list
 
+### Review: Data Structures
+
+https://www.freecodecamp.org/learn/javascript-v9/review-data-structures-js/review-data-structures-js
+
 ## 21. Algorithms
 
 ### Introduction to Common Searching and Sorting Algorithms
@@ -457,6 +545,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-working-with-common-dat
 https://www.freecodecamp.org/learn/javascript-v9/lecture-introduction-to-common-searching-and-sorting-algorithms/what-is-binary-search-and-how-does-it-differ-from-linear-search
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-introduction-to-common-searching-and-sorting-algorithms/what-is-divide-and-conquer-and-how-does-merge-sort-work
+
+### Review: Searching and Sorting Algorithms
+
+https://www.freecodecamp.org/learn/javascript-v9/review-searching-and-sorting-algorithms-js/review-searching-and-sorting-algorithms-js
 
 ## 22. Graphs and Trees
 
@@ -472,11 +564,19 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-graphs-an
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-graphs-and-trees-js/how-do-priority-queues-and-heaps-work
 
+### Review: Graphs and Trees
+
+https://www.freecodecamp.org/learn/javascript-v9/review-graphs-and-trees-js/review-graphs-and-trees-js
+
 ## 23. Dynamic Programming
 
 ### Understanding Dynamic Programming JavaScript
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-dynamic-programming-js/what-is-dynamic-programming-and-what-are-some-common-algorithms
+
+### Review: Dynamic Programming
+
+https://www.freecodecamp.org/learn/javascript-v9/review-dynamic-programming-js/review-dynamic-programming-js
 
 ## 24. Functional Programming
 
@@ -485,6 +585,10 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-dynamic-p
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-functional-programming/what-is-functional-programming
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-functional-programming/what-is-currying-and-how-does-it-work
+
+### Review: JavaScript Functional Programming
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript-functional-programming/review-javascript-functional-programming
 
 ## 25. Asynchronous JavaScript
 
@@ -505,3 +609,13 @@ https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-asynchron
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-asynchronous-programming/how-does-the-javascript-engine-work-and-what-is-a-javascript-runtime
 
 https://www.freecodecamp.org/learn/javascript-v9/lecture-understanding-asynchronous-programming/what-is-the-geolocation-api-and-how-does-the-getcurrentposition-work
+
+### Review: Asynchronous JavaScript
+
+https://www.freecodecamp.org/learn/javascript-v9/review-asynchronous-javascript/review-asynchronous-javascript
+
+## 26. JavaScript Review
+
+### Review: JavaScript
+
+https://www.freecodecamp.org/learn/javascript-v9/review-javascript/review-javascript
