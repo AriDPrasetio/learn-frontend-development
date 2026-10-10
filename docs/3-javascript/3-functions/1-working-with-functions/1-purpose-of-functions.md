@@ -1,4 +1,4 @@
-﻿# Apa Tujuan dari `function`, dan Bagaimana Cara Kerjanya?
+# Apa Tujuan dari `function`, dan Bagaimana Cara Kerjanya?
 
 `function` adalah potongan `code` yang dapat digunakan kembali yang melakukan tugas tertentu atau menghitung sebuah `value`. Pikirkan `function` sebagai sebuah mesin yang menerima suatu `input`, melakukan operasi terhadap `input` tersebut, lalu menghasilkan sebuah `output`. Berikut adalah contoh mendeklarasikan sebuah `function`:
 
@@ -137,3 +137,5 @@ Apa `return value` `default` dari sebuah `function` jika tidak ada `return state
 - `undefined`
 - An empty `string`.
 
+---
+⬅️ Sebelumnya | [Selanjutnya ➡️](2-arrow-functions.md)
