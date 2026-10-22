@@ -1,0 +1,20 @@
+{
+  "total": 15,
+  "data": [
+    { "id": "action", "title": "Action", "slug": "action", "description": "For all your fist flying and huge explosion needs!" },
+    { "id": "adventure", "title": "Adventure", "slug": "adventure", "description": "Venture forth with heroes who hope to achieve their dreams!" },
+    { "id": "comedy", "title": "Comedy", "slug": "comedy", "description": "Find lots of laughs from classic slapstick to cult classics." },
+    { "id": "drama", "title": "Drama", "slug": "drama", "description": "Emotional stories and character development." },
+    { "id": "fantasy", "title": "Fantasy", "slug": "fantasy", "description": "Magical worlds, swords, and legendary monsters." },
+    { "id": "music", "title": "Music", "slug": "music", "description": "Idols, rock bands, and symphonic performances." },
+    { "id": "romance", "title": "Romance", "slug": "romance", "description": "Love, relationships, and heartfelt confessions." },
+    { "id": "sci-fi", "title": "Sci-Fi", "slug": "sci-fi", "description": "Futuristic tech, space exploration, and cybernetic adventures." },
+    { "id": "seinen", "title": "Seinen", "slug": "seinen", "description": "Targeted at adult male audiences with mature themes." },
+    { "id": "shojo", "title": "Shojo", "slug": "shojo", "description": "Heartwarming and emotional stories." },
+    { "id": "shonen", "title": "Shonen", "slug": "shonen", "description": "Action, perseverance, and bonding between rivals and comrades." },
+    { "id": "slice-of-life", "title": "Slice of Life", "slug": "slice-of-life", "description": "Relaxing, everyday moments with friends and family." },
+    { "id": "sports", "title": "Sports", "slug": "sports", "description": "High stakes competition, teamwork, and athletic passion." },
+    { "id": "supernatural", "title": "Supernatural", "slug": "supernatural", "description": "Spirits, gods, and phenomena beyond human comprehension." },
+    { "id": "thriller", "title": "Thriller", "slug": "thriller", "description": "Psychological suspense, mysteries, and mind games." }
+  ]
+}

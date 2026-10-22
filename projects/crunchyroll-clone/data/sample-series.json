@@ -1,0 +1,52 @@
+{
+  "id": "GG5H5XQX4",
+  "title": "Frieren: Beyond Journey's End",
+  "slug": "frieren-beyond-journeys-end",
+  "description": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+  "rating": {
+    "average": 4.9,
+    "count": 411000
+  },
+  "maturity_rating": "TV-14",
+  "categories": ["Adventure", "Drama", "Fantasy", "Shonen"],
+  "audio_locales": ["ja-JP", "en-US"],
+  "subtitle_locales": ["en-US", "id-ID", "es-419", "de-DE", "fr-FR"],
+  "images": {
+    "poster_tall": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480/catalog/crunchyroll/768bec8741badd2e6b9c47c43af11554.png",
+    "hero_background": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1920/display/keyart/T00324918-base_asset_16x9-en-US"
+  },
+  "seasons": [
+    {
+      "id": "GYE5CQMQ5",
+      "season_number": 1,
+      "title": "Season 1",
+      "audio_locale": "ja-JP",
+      "episodes": [
+        {
+          "id": "G0DUND0K2",
+          "episode_number": 1,
+          "title": "The Journey's End",
+          "slug": "the-journeys-end",
+          "duration_ms": 1559935,
+          "description": "After a 10-year quest, the Hero Party defeats the Demon King and returns home. But for the long-lived elf Frieren, fifty years is like the blink of an eye.",
+          "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=640/catalog/crunchyroll/6cd67d132426b83ebe553cc86267cb4e.png",
+          "is_subbed": true,
+          "is_dubbed": true,
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+          "id": "GEVUZXG7J",
+          "episode_number": 2,
+          "title": "It Didn't Have to Be Magic...",
+          "slug": "it-didnt-have-to-be-magic",
+          "duration_ms": 1582000,
+          "description": "Frieren takes on Fern as her apprentice at the request of Heiter, while learning to appreciate the fleeting mortal lives around her.",
+          "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=640/catalog/crunchyroll/9f90ecea5b25b4731da862ed6c5f3b48.png",
+          "is_subbed": true,
+          "is_dubbed": true,
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        }
+      ]
+    }
+  ]
+}
