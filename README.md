@@ -49,9 +49,26 @@ learn-frontend-development/
 │       ├── 3-functions/                # Modul fungsi
 │       ├── 4-arrays/                   # Modul array
 │       └── link-source/                # Tautan referensi kurikulum asli freeCodeCamp
+├── pareto-version/                     # 🚀 Roadmap & Kurikulum Ringkas JavaScript (Prinsip Pareto 80/20)
+├── projects/                           # 🏆 Proyek Nyata & Capstone Portofolio
+│   └── crunchyroll-clone/              # Implementasi Full Vanilla Streaming UI
+│       ├── data/                       # Mock JSON Data (Categories & Series)
+│       ├── panduan/                    # Panduan langkah demi langkah (Milestone 0-4)
+│       ├── BLUEPRINT.md                # Spesifikasi rekayasa balik arsitektur
+│       └── README.md                   # Ringkasan proyek Crunchyroll
 ├── .agents/                            # Workflow otomasi salin teori & panduan terminologi
 └── README.md
 ```
+
+---
+
+## 🏆 Proyek Nyata & Capstone Portofolio
+
+Selain materi teori, repositori ini memuat implementasi proyek web skala industri sebagai pembuktian pemahaman fundamental:
+
+- [**Crunchyroll Streaming UI Clone**](./projects/crunchyroll-clone/): Proyek implementasi platform streaming anime berskala industri (**Full Vanilla**: `HTML5`, `CSS3` berarsitektur ITCSS/BEM, dan `ES6+ JavaScript`) yang mengintegrasikan manipulasi DOM, transformasi data koleksi, `HTML5 Media API`, serta *Client-Side SPA Router* mandiri.
+  - 📖 [Spesifikasi Teknis (BLUEPRINT.md)](./projects/crunchyroll-clone/BLUEPRINT.md)
+  - 🛠️ [Panduan Belajar Bertahap (panduan/)](./projects/crunchyroll-clone/panduan/README.md)
 
 ---
 
