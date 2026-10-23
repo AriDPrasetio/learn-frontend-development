@@ -20,7 +20,7 @@ Materi disajikan secara *verbatim* (akurat kata demi kata) dan terstruktur rapi 
 Kurikulum pembelajaran yang didokumentasikan di repositori ini mencakup:
 
 - [ ] **0 - Computer Basics** (Dasar-dasar komputer, internet, dan tooling)
-- [ ] **1 - HTML** (Struktur konten web) *(Arsip bertahap)*
+- [x] **1 - HTML** (Struktur konten web) ✅ *(5 Modul Lengkap)*
 - [ ] **2 - CSS** (Tata letak dan gaya tampilan web) *(Arsip bertahap)*
 - [x] **3 - JavaScript** 🎯 **(Fokus Utama Saat Ini)**
   - [x] `1-variables-and-strings`
@@ -31,7 +31,7 @@ Kurikulum pembelajaran yang didokumentasikan di repositori ini mencakup:
 - [ ] **4 - Front End Development Libraries** (React, Redux, dsb.)
 
 > [!NOTE]
-> Materi mengenai **HTML** dan **CSS** sebelumnya telah dipelajari, sehingga fokus aktivitas repositori saat ini diprioritaskan pada materi kurikulum baru **JavaScript**. Catatan teori serta latihan HTML dan CSS akan diarsipkan kembali secara bertahap.
+> Materi kurikulum **HTML** telah lengkap diarsipkan (5 modul) sebagai fondasi *semantic* dan *accessible web*. Catatan teori serta latihan **CSS** akan diarsipkan secara bertahap, sementara fokus aktif kurikulum baru diprioritaskan pada **JavaScript**.
 
 ---
 
@@ -41,7 +41,13 @@ Kurikulum pembelajaran yang didokumentasikan di repositori ini mencakup:
 learn-frontend-development/
 ├── docs/                               # Direktori utama materi teori dalam Bahasa Indonesia
 │   ├── 0-computer-basic/               # Dasar-dasar komputer dan internet
-│   ├── 1-html/                         # Materi HTML
+│   ├── 1-html/                         # Materi teori HTML (5 Modul Lengkap)
+│   │   ├── 1-basic-html/               # Modul Basic HTML
+│   │   ├── 2-semantic-html/            # Modul Semantic HTML
+│   │   ├── 3-html-forms-and-tables/    # Modul HTML Forms & Tables
+│   │   ├── 4-html-and-accessibility/   # Modul HTML & Accessibility
+│   │   ├── 5-review-html/              # Comprehensive Review HTML
+│   │   └── link-source/                # Sumber referensi kurikulum asli freeCodeCamp
 │   ├── 2-css/                          # Materi CSS
 │   └── 3-javascript/                   # Materi teori JavaScript (kurikulum freeCodeCamp)
 │       ├── 1-variables-and-strings/    # Modul variabel & string

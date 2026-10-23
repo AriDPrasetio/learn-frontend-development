@@ -39,6 +39,9 @@
 - [What Is the Difference Between Absolute and Relative Paths?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-links/what-is-the-difference-between-absolute-and-relative-paths)
 - [What Is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-links/what-is-the-difference-between-slashes-a-single-dot-and-double-dot-in-path-syntax)
 - [What Are the Different Link States, and Why Are They Important?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-links/what-are-the-different-link-states)
+### Review: Basic HTML
+
+- [Basic HTML Review](https://www.freecodecamp.org/learn/responsive-web-design-v9/review-basic-html/basic-html-review)
 
 ## 2. Semantic HTML
 
@@ -63,6 +66,9 @@
 - [How Do You Display Mathematical Equations and Chemical Formulas in HTML?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-specialized-semantic-elements/how-do-you-display-mathematical-equations-and-chemical-formulas-in-html)
 - [How Do You Represent Computer Code in HTML?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-specialized-semantic-elements/how-do-you-represent-computer-code-in-html)
 - [What Are the U, S, and Ruby Elements Used For, and How Do They Work?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-specialized-semantic-elements/what-are-the-u-s-and-ruby-elements-used-for)
+### Review: Semantic HTML
+
+- [Semantic HTML Review](https://www.freecodecamp.org/learn/responsive-web-design-v9/review-semantic-html/review-semantic-html)
 
 ## 3. HTML Forms And Tables
 
@@ -79,6 +85,9 @@
 
 - [What Is an HTML Validator, and How Can It Help You Debug Your Code?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-html-tools/what-is-an-html-validator)
 - [How to Use the DOM Inspector and DevTools to Debug and Build Your Projects](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-html-tools/how-to-use-the-dom-inspector-and-devtools)
+### Review: HTML Tables and Forms
+
+- [HTML Tables and Forms Review](https://www.freecodecamp.org/learn/responsive-web-design-v9/review-html-tables-and-forms/review-html-tables-and-forms)
 
 ## 4. HTML And Accessibility
 
@@ -109,4 +118,12 @@
 - [What Are the Accessibility Benefits for Good Link Text, and What Are Examples of Good Link Text?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-accessible-media-elements/what-are-the-accessibility-benefits-for-good-link-text)
 - [What Are Good Ways to Make Audio and Video Content Accessible?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-accessible-media-elements/what-are-good-ways-to-make-audio-and-video-content-accessible)
 - [What Are Some Ways to Make Web Applications Keyboard Accessible?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-accessible-media-elements/what-are-some-ways-to-make-web-applications-keyboard-accessible)
+### Review: HTML Accessibility
 
+- [HTML Accessibility Review](https://www.freecodecamp.org/learn/responsive-web-design-v9/review-html-accessibility/review-html-accessibility)
+
+## 5. Review HTML
+
+### Review: HTML
+
+- [HTML Review](https://www.freecodecamp.org/learn/responsive-web-design-v9/review-html/review-html)
