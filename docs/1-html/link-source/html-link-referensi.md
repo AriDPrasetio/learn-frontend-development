@@ -60,6 +60,10 @@ https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with
 
 https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-links/what-are-the-different-link-states
 
+### Review: Basic HTML
+
+https://www.freecodecamp.org/learn/responsive-web-design-v9/review-basic-html/basic-html-review
+
 ## 2. Semantic HTML
 
 ### Importance Of Semantic HTML
@@ -96,6 +100,10 @@ https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with
 
 https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-specialized-semantic-elements/what-are-the-u-s-and-ruby-elements-used-for
 
+### Review: Semantic HTML
+
+https://www.freecodecamp.org/learn/responsive-web-design-v9/review-semantic-html/review-semantic-html
+
 ## 3. HTML Forms And Tables
 
 ### Working With Forms
@@ -117,6 +125,10 @@ https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with
 https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-html-tools/what-is-an-html-validator
 
 https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-html-tools/how-to-use-the-dom-inspector-and-devtools
+
+### Review: HTML Tables and Forms
+
+https://www.freecodecamp.org/learn/responsive-web-design-v9/review-html-tables-and-forms/review-html-tables-and-forms
 
 ## 4. HTML And Accessibility
 
@@ -166,3 +178,12 @@ https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-accessible-m
 
 https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-accessible-media-elements/what-are-some-ways-to-make-web-applications-keyboard-accessible
 
+### Review: HTML Accessibility
+
+https://www.freecodecamp.org/learn/responsive-web-design-v9/review-html-accessibility/review-html-accessibility
+
+## 5. Review HTML
+
+### Review: HTML
+
+https://www.freecodecamp.org/learn/responsive-web-design-v9/review-html/review-html
