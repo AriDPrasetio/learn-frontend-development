@@ -1,0 +1,18 @@
+.o-container {
+  inline-size: 100%;
+  max-width: var(--layout-max-width);
+  margin-inline: auto;
+  padding-inline: var(--space-m);
+}
+@media (min-width: 768px) {
+  .o-container {
+    padding-inline: var(--space-xl);
+  }
+}
+.o-main {
+  padding-block: var(--space-l);
+  min-height: calc(100vh - var(--navbar-height));
+}
+.u-text-muted {
+  color: var(--text-muted);
+}

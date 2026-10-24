@@ -1,0 +1,25 @@
+body {
+  background-color: var(--bg-app);
+  color: var(--text-primary);
+  font-family: var(--font-family-sans);
+  font-size: 1rem;
+  line-height: 1.5;
+  min-block-size: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.2;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+ul,
+ol {
+  list-style: none;
+}
