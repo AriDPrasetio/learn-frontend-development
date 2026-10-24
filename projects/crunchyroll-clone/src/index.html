@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Crunchyroll Clone - Educational Project</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍙</text></svg>"
+    />
+    <link rel="stylesheet" href="./css/main.css" />
+  </head>
+  <body>
+    <div id="app" class="o-app">
+      <header id="main-navbar" class="c-navbar">
+        <div class="o-container c-navbar__inner">
+          <a
+            href="#/browse"
+            class="c-navbar__logo"
+            aria-label="Beranda Crunchyroll"
+          >
+            <span class="c-navbar__brand">CRUNCHYROLL</span>
+          </a>
+          <nav class="c-navbar__nav" aria-label="Navigasi Utama">
+            <ul class="c-navbar__list">
+              <li>
+                <a href="#/browse" class="c-navbar__link is-active">Jelajahi</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+      <main id="main-content" class="o-main" tabindex="-1">
+        <div class="o-container">
+          <p class="u-text-muted">Menginisialisasi katalog anime...</p>
+        </div>
+      </main>
+    </div>
+    <script type="module" src="./js/app.js"></script>
+  </body>
+</html>

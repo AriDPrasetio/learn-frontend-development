@@ -1,0 +1,31 @@
+.c-navbar {
+  height: var(--navbar-height);
+  background-color: var(--bg-surface);
+  border-bottom: 1px solid var(--bg-surface-elevated);
+  display: flex;
+  align-items: center;
+}
+.c-navbar__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.c-navbar__brand {
+  font-weight: 900;
+  letter-spacing: 1px;
+  color: var(--text-accent);
+}
+.c-navbar__list {
+  display: flex;
+  gap: var(--space-m);
+}
+.c-navbar__link {
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+.c-navbar__link:hover,
+.c-navbar__link.is-active {
+  color: var(--text-accent);
+}
