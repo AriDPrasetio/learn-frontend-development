@@ -21,7 +21,7 @@ Kurikulum pembelajaran yang didokumentasikan di repositori ini mencakup:
 
 - [ ] **0 - Computer Basics** (Dasar-dasar komputer, internet, dan tooling)
 - [x] **1 - HTML** (Struktur konten web) ✅ *(5 Modul Lengkap)*
-- [ ] **2 - CSS** (Tata letak dan gaya tampilan web) *(Arsip bertahap)*
+- [x] **2 - CSS** (Tata letak dan gaya tampilan web) ✅ *(16 Modul Lengkap)*
 - [x] **3 - JavaScript** 🎯 **(Fokus Utama Saat Ini)**
   - [x] `1-variables-and-strings`
   - [x] `2-booleans-and-numbers`
@@ -31,7 +31,7 @@ Kurikulum pembelajaran yang didokumentasikan di repositori ini mencakup:
 - [ ] **4 - Front End Development Libraries** (React, Redux, dsb.)
 
 > [!NOTE]
-> Materi kurikulum **HTML** telah lengkap diarsipkan (5 modul) sebagai fondasi *semantic* dan *accessible web*. Catatan teori serta latihan **CSS** akan diarsipkan secara bertahap, sementara fokus aktif kurikulum baru diprioritaskan pada **JavaScript**.
+> Materi kurikulum **HTML** (5 modul) dan **CSS** (16 modul) telah lengkap diarsipkan sebagai fondasi *structure, styling, responsive design*, dan *accessibility*. Catatan teori kurikulum aktif selanjutnya difokuskan pada pendalaman **JavaScript**.
 
 ---
 
@@ -48,7 +48,24 @@ learn-frontend-development/
 │   │   ├── 4-html-and-accessibility/   # Modul HTML & Accessibility
 │   │   ├── 5-review-html/              # Comprehensive Review HTML
 │   │   └── link-source/                # Sumber referensi kurikulum asli freeCodeCamp
-│   ├── 2-css/                          # Materi CSS
+│   ├── 2-css/                          # Materi teori CSS (16 Modul Lengkap)
+│   │   ├── 1-basic-css/                # Modul Basic CSS
+│   │   ├── 2-design-for-developers/    # Modul UI/UX Design Fundamentals
+│   │   ├── 3-absolute-and-relative-units/ # Modul Units (px, rem, em, vh, vw, calc)
+│   │   ├── 4-pseudo-classes-and-elements/ # Modul Pseudo Classes & Elements
+│   │   ├── 5-css-colors/               # Modul Colors, RGB, HSL, Hex, Gradients
+│   │   ├── 6-styling-forms/            # Modul Styling Forms
+│   │   ├── 7-css-box-model/            # Modul Box Model, Transforms & Filters
+│   │   ├── 8-css-flexbox/              # Modul Flexbox
+│   │   ├── 9-css-typography/           # Modul Fonts & Typography
+│   │   ├── 10-css-and-accessibility/   # Modul CSS & Accessibility
+│   │   ├── 11-css-positioning/         # Modul Floats & Positioning
+│   │   ├── 12-attribute-selectors/     # Modul Attribute Selectors
+│   │   ├── 13-responsive-design/       # Modul Responsive Web Design
+│   │   ├── 14-css-variables/           # Modul CSS Custom Properties
+│   │   ├── 15-css-grid/                # Modul CSS Grid & Debugging
+│   │   ├── 16-css-animations/          # Modul Animations & Accessibility
+│   │   └── link-source/                # Sumber referensi kurikulum asli freeCodeCamp
 │   └── 3-javascript/                   # Materi teori JavaScript (kurikulum freeCodeCamp)
 │       ├── 1-variables-and-strings/    # Modul variabel & string
 │       ├── 2-booleans-and-numbers/     # Modul boolean & angka
